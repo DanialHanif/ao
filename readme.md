@@ -7,24 +7,24 @@
 </h4>
 
 <div align="center">
-  <a href="https://github.com/klaussinani/ao">
+  <a href="https://github.com/danialhanif/ao-reborn">
     <img src="docs/media/list-navigation.gif" alt="Ao" width="93%">
   </a>
 </div>
 
 <p align="center">
-  <a href="https://travis-ci.org/klaussinani/ao">
-    <img alt="Build Status" src="https://travis-ci.org/klaussinani/ao.svg?branch=master">
+  <a href="https://travis-ci.org/danialhanif/ao-reborn">
+    <img alt="Build Status" src="https://travis-ci.org/danialhanif/ao-reborn.svg?branch=master">
   </a>
 </p>
 
 ## Description
 
-[**Ao**](https://github.com/klaussinani/ao) is an abandoned, unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than [120 countries](https://snapcraft.io/ao). Developed by [@klaussinani](https://github.com/klaussinani).
+[**Ao**](https://github.com/klaussinani/ao) is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than [120 countries](https://snapcraft.io/ao). Developed by [@klaussinani](https://github.com/klaussinani).
 
-[**Ao Reborn**](https://github.com/danialhanif/ao) is a forked version of [Ao](https://github.com/klaussinani/ao) that aims to bring back the project back to life. Maintained by [@danialhanif](https://github.com/danialhanif/)
+[**Ao Reborn**](https://github.com/danialhanif/ao-reborn) is a forked version of [Ao](https://github.com/klaussinani/ao) that aims to bring back the project back to life. Maintained by [@danialhanif](https://github.com/danialhanif/)
 
-Visit the [contributing guidelines](https://github.com/danialhanif/ao/blob/master/contributing.md#translating-documentation) to learn more on how to translate this document into more languages.
+Visit the [contributing guidelines](https://github.com/danialhanif/ao-reborn/blob/master/contributing.md#translating-documentation) to learn more on how to translate this document into more languages.
 
 ## Highlights
 
@@ -57,7 +57,7 @@ Visit the [contributing guidelines](https://github.com/danialhanif/ao/blob/maste
 
 #### Github Releases
 
-Head to the [releases](https://github.com/danialhanif/ao/releases/latest) page and download the appropriate installer for your system.
+Head to the [releases](https://github.com/danialhanif/ao-reborn/releases/latest) page and download the appropriate installer for your system.
 
 ## Features
 
@@ -145,7 +145,7 @@ Toggle Ao Window           | <kbd>Cmd/Ctrl</kbd> <kbd>Alt</kbd> <kbd>A</kbd>
 
 ## Development
 
-For more info on how to contribute to the project, please read the [contributing guidelines](https://github.com/danialhanif/ao/blob/master/contributing.md).
+For more info on how to contribute to the project, please read the [contributing guidelines](https://github.com/danialhanif/ao-reborn/blob/master/contributing.md).
 
 - Fork the repository and clone it to your machine
 - Navigate to your local fork `cd ao`
@@ -169,4 +169,4 @@ Ao Reborn is an unofficial, open source, third-party, community-driven, free app
 
 ## License
 
-[MIT](https://github.com/danialhanif/ao/blob/master/license.md)
+[MIT](https://github.com/danialhanif/ao-reborn/blob/master/license.md)
