@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="docs/media/logo.png" width="20%"><br/>Ao
+  <img src="docs/media/logo.png" width="20%"><br/>Ao. Reborn.
 </h1>
 
 <h4 align="center">
@@ -20,17 +20,11 @@
 
 ## Description
 
-Ao is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than [120 countries](https://snapcraft.io/ao).
+[**Ao**](https://github.com/klaussinani/ao) is an abandoned, unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than [120 countries](https://snapcraft.io/ao). Developed by [@klaussinani](https://github.com/klaussinani).
 
-Read this document in: [Deutsch](https://github.com/klaussinani/ao/blob/master/docs/i18n/readme.GER.md).
+[**Ao Reborn**](https://github.com/danialhanif/ao) is a forked version of [Ao](https://github.com/klaussinani/ao) that aims to bring back the project back to life. Maintained by [@danialhanif](https://github.com/danialhanif/)
 
-You can now support the development process through [GitHub Sponsors](https://github.com/sponsors/klaussinani).
-
-Visit the [contributing guidelines](https://github.com/klaussinani/ao/blob/master/contributing.md#translating-documentation) to learn more on how to translate this document into more languages.
-
-Come over to [Gitter](https://gitter.im/klaussinani/ao) or [Twitter](https://twitter.com/klaussinani) to share your thoughts on the project.
-
-You can find more apps [here](#related-apps).
+Visit the [contributing guidelines](https://github.com/danialhanif/ao/blob/master/contributing.md#translating-documentation) to learn more on how to translate this document into more languages.
 
 ## Highlights
 
@@ -46,12 +40,16 @@ You can find more apps [here](#related-apps).
 
 - [Description](#description)
 - [Highlights](#highlights)
+- [Contents](#contents)
 - [Install](#install)
+    - [Github Releases](#github-releases)
 - [Features](#features)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Local Shortcut Keys](#local-shortcut-keys)
+  - [Global Shortcut Keys](#global-shortcut-keys)
 - [Development](#development)
-- [Related Apps](#related-apps)
-- [Team](#team)
+- [Original Team](#original-team)
+- [Maintainer](#maintainer)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -59,23 +57,11 @@ You can find more apps [here](#related-apps).
 
 #### Github Releases
 
-Head to the [releases](https://github.com/klaussinani/ao/releases/latest) page and download the appropriate installer for your system.
-
-#### Snapcraft
-
-Ubuntu Linux users can directly install through [`Snapcraft`](https://snapcraft.io/ao) `snap install ao`
-
-#### Homebrew
-
-Macos users can directly install through [`Homebrew Cask`](https://caskroom.github.io/) `brew cask install ao`
-
-#### Note
-
-The version available on `Homebrew Cask` may not be the latest, since unlike `Snapcraft`, it is not offically maintained. If that is the case, please consider downloading directly from the [Github releases](https://github.com/klaussinani/ao/releases/latest) page.
+Head to the [releases](https://github.com/danialhanif/ao/releases/latest) page and download the appropriate installer for your system.
 
 ## Features
 
-Visit the project [homepage](https://klaussinani.github.io/ao) to view all features in detail.
+Visit the original project [homepage](https://klaussinani.github.io/ao) to view all features in detail.
 
 - Auto Night Mode - Press <kbd>Cmd/Ctrl</kbd> <kbd>Alt</kbd> <kbd>N</kbd> to allow Tusk to adjust to your environment.
 - Black Theme - Activate it by pressing <kbd>Cmd/Ctrl</kbd> <kbd>B</kbd>
@@ -159,7 +145,7 @@ Toggle Ao Window           | <kbd>Cmd/Ctrl</kbd> <kbd>Alt</kbd> <kbd>A</kbd>
 
 ## Development
 
-For more info on how to contribute to the project, please read the [contributing guidelines](https://github.com/klaussinani/ao/blob/master/contributing.md).
+For more info on how to contribute to the project, please read the [contributing guidelines](https://github.com/danialhanif/ao/blob/master/contributing.md).
 
 - Fork the repository and clone it to your machine
 - Navigate to your local fork `cd ao`
@@ -168,21 +154,19 @@ For more info on how to contribute to the project, please read the [contributing
 - Lint code for errors `npm test` or `yarn test`
 - Build binaries and installers `npm run release` or `yarn release`
 
-## Related Apps
-
-- [Tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app.
-- [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-
-## Team
+## Original Team
 
 - Klaus Sinani [(@klaussinani)](https://github.com/klaussinani)
 - Mario Sinani [(@mariosinani)](https://github.com/mariosinani)
 - Thanasis Gkanos [(@ThanasisGkanos)](https://github.com/ThanasisGkanos)
 
+## Maintainer
+- Danial Hanif [(@danialhanif)](https://github.com/danialhanif)
+
 ## Disclaimer
 
-Ao is an unofficial, open source, third-party, community-driven, free app and is not affiliated in any way with Microsoft.
+Ao Reborn is an unofficial, open source, third-party, community-driven, free app and is not affiliated in any way with Microsoft.
 
 ## License
 
-[MIT](https://github.com/klaussinani/ao/blob/master/license.md)
+[MIT](https://github.com/danialhanif/ao/blob/master/license.md)
