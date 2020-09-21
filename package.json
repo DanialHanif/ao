@@ -1,20 +1,20 @@
 {
-  "name": "ao",
-  "productName": "Ao",
+  "name": "ao-reborn",
+  "productName": "Ao Reborn",
   "version": "6.9.0",
   "description": "Elegant Microsoft To-Do desktop app",
   "license": "MIT",
-  "repository": "klaussinani/ao",
+  "repository": "danialhanif/ao-reborn",
   "author": {
-    "name": "Klaus Sinani",
-    "email": "klaussinani@gmail.com",
-    "url": "https://klaussinani.github.io"
+    "name": "Danial Hanif",
+    "email": "danialhanif@outlook.com",
+    "url": "https://danialhanif.github.io"
   },
   "maintainers": [
     {
-      "name": "Mario Sinani",
-      "email": "mariosinani@protonmail.ch",
-      "url": "https://github.com/mariosinani"
+      "name": "Danial Hanif",
+      "email": "danialhanif@outlook.com",
+      "url": "https://github.com/danialhanif"
     }
   ],
   "scripts": {
@@ -64,7 +64,7 @@
     }
   },
   "build": {
-    "appId": "com.klaussinani.ao",
+    "appId": "com.danialhanif.ao-reborn",
     "files": [
       "**/*",
       "!media${/*}",
@@ -72,7 +72,7 @@
     ],
     "linux": {
       "category": "Office",
-      "description": "Ao is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries.",
+      "description": "Ao Reborn is a forked version of Ao, an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries.",
       "synopsis": "Elegant Microsoft To-Do desktop app",
       "target": [
         {
